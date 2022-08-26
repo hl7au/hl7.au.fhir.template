@@ -2,7 +2,7 @@
   "package-id": "hl7.au.fhir.template",
   "title": "Base template for FHIR IGs published by HL7",
   "canonical": "http://fhir.org/templates/hl7.fhir.template",
-  "introduction": "This is the basic template for FHIR guides published by HL7",
+  "introduction": "This is the basic template for FHIR guides published by HL7.",
   "list": [
     {
       "version": "current",
