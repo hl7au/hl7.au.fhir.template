@@ -1,8 +1,8 @@
 ﻿{
   "package-id": "hl7.au.fhir.template",
   "title": "Base template for FHIR IGs published by HL7",
-  "canonical": "http://fhir.org/templates/hl7.fhir.template",
-  "introduction": "This is the basic template for FHIR guides published by HL7",
+  "canonical": "http://fhir.org/templates/hl7.au.fhir.template",
+  "introduction": "This is the basic template for FHIR guides published by HL7 Australia",
   "list": [
     {
       "version": "current",
@@ -12,12 +12,20 @@
       "current": true
     },
     {
+      "version": "0.3.0",
+      "desc": "Upgrade for dependency on fhir.base.template",
+      "path": "http://fhir.org/templates/hl7.au.fhir.template/0.3.0",
+      "status": "release",
+      "sequence": "Publications",
+      "current": true,
+      "date": "2022-09-16"
+    },
+    {
       "version": "0.2.2",
       "desc": "Upgrade for dependency on fhir.base.template",
       "path": "http://fhir.org/templates/hl7.fhir.template/0.2.2",
       "status": "release",
       "sequence": "Publications",
-      "current": true,
       "date": "2021-09-03"
     },
     {
