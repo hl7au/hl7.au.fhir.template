@@ -17,3 +17,43 @@
   float: right;
   margin-left: 6px;
 }
+
+pre.json             {
+	border: 1px solid #dcdcdc;
+ 	font-size: 11px;
+        background: #EFFFEF ; 
+	padding: 5px;
+	width: 100%;
+}
+
+pre.rdf             {
+	border: 1px solid #dcdcdc;
+ 	font-size: 11px;
+        background: #fdedff ; 
+	padding: 5px;
+	width: 100%;
+}
+
+pre.fhirpath             {
+	border: 1px solid #dcdcdc;
+ 	font-size: 11px;
+  background: #ffeafb ; 
+	padding: 5px;
+	width: 100%;
+}
+
+pre.graphql             {
+	border: 1px solid #dcdcdc;
+ 	font-size: 11px;
+        background: #f7e6ff ; 
+	padding: 5px;
+	width: 100%;
+}
+
+pre.xml              {
+	font-family: 'Courier New';
+ 	font-size: 9pt;
+        padding: 2px;
+        background: #F0FFFF ; 
+	width: 100%;
+}
