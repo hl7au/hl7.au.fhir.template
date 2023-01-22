@@ -32,6 +32,7 @@ pre.rdf             {
         background: #fdedff ; 
 	padding: 5px;
 	width: 100%;
+	overflow: auto
 }
 
 pre.fhirpath             {
