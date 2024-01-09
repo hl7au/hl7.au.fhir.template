@@ -2,7 +2,7 @@
   "name" : "hl7.au.fhir.template",
   "type" : "fhir.template",
   "license" : "CC0-1.0",
-  "description" : "HL7 FHIR Template - for use with HL7 Australia-published FHIR IGs",
+  "description" : "HL7 Australia template for use with HL7 Australia-published FHIR implementation guides",
   "author" : "http://hl7.org/fhir",
   "canonical" : "http://fhir.org/templates/hl7.au.fhir.template",
   "base" : "hl7.au.base.template",

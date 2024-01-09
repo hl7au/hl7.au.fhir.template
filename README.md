@@ -1,6 +1,11 @@
 # HL7 Australia FHIR template
 
-package hl7.au.fhir.template
+Template for FHIR implementation guides published by [HL7 Australia](https://confluence.hl7.org/display/HA/HL7+Australia+Home).
+This template is based on package `hl7.au.base.template`. Adds HL7 Australia logos.
 
-Template used for most HL7-defined FHIR implementation guides (based on ig-template-base - package = hl7.base.template).  Adds HL7 logos.
+## Package ID
+package id = `hl7.au.fhir.template`
+
+
+
 
