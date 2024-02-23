@@ -12,14 +12,22 @@
       "current" : true
     },
     {
+      "version" : "0.7.1",
+      "path" : "http://fhir.org/templates/hl7.au.fhir.template/0.7.1",
+      "status" : "release",
+      "sequence" : "Publications",
+      "fhirversion" : "4.0.1",
+      "desc" : "Revised CSS styling",
+      "current" : true
+    },
+    {
       "version" : "0.7.0",
       "path" : "http://fhir.org/templates/hl7.au.fhir.template/0.7.0",
       "status" : "release",
       "sequence" : "Publications",
       "fhirversion" : "4.0.1",
       "desc" : "Upgrade to add CSS for new labels",
-      "date" : "2024-01-18",
-      "current" : true
+      "date" : "2024-01-18"
     },
     {
       "version" : "0.6.0",
