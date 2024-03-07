@@ -1,4 +1,4 @@
-﻿{
+{
   "package-id" : "hl7.au.fhir.template",
   "title" : "Base template for FHIR IGs published by HL7 Australia",
   "canonical" : "http://fhir.org/templates/hl7.au.fhir.template",
@@ -12,13 +12,14 @@
       "current" : true
     },
     {
-      "version" : "0.7.1",
-      "path" : "http://fhir.org/templates/hl7.au.fhir.template/0.7.1",
+      "version" : "0.8.0",
+      "path" : "http://fhir.org/templates/hl7.au.fhir.template/0.8.0",
       "status" : "release",
       "sequence" : "Publications",
       "fhirversion" : "4.0.1",
       "desc" : "Revised CSS styling",
-      "current" : true
+      "current" : true,
+      "date" : "2024-03-07"
     },
     {
       "version" : "0.7.0",
