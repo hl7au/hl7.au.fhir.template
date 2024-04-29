@@ -19,6 +19,7 @@
       "fhirversion" : "4.0.1",
       "desc" : "Update footer to match international version, redirecting 'propose a change' to Jira.",
       "current" : true,
+      "date" : "2024-04-25"
     },
     {
       "version" : "0.8.0",
