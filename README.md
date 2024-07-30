@@ -7,5 +7,3 @@ This template is based on package `hl7.au.base.template`. Adds HL7 Australia log
 package id = `hl7.au.fhir.template`
 
 
-
-
