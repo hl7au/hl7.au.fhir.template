@@ -18,7 +18,8 @@
       "sequence" : "Publications",
       "fhirversion" : "4.0.1",
       "desc" : "Upgrade for dependency on fhir.base.template v0.9.0.",
-      "current" : true
+      "current" : true,
+      "date" : "2024-11-12"
     },
     {
       "version" : "0.9.0",
