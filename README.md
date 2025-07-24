@@ -8,4 +8,3 @@ This template is based on package `hl7.au.base.template` which provides the HL7 
 
 ## Package ID
 package id = `hl7.au.fhir.template`
-
