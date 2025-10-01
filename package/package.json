@@ -9,5 +9,5 @@
   "dependencies" : {
     "hl7.au.base.template" : "current"
   },
-  "version" : "0.12.0"
+  "version" : "1.0.0"
 }
